@@ -10,8 +10,8 @@ body{
 .header-empresa-input{
 	height: 55px;
 	width: 65%;
-	display: block;
-    margin : auto;
+    margin-top: 15px;
+    margin-left: 100px;
     margin-bottom: 22px;
     border-radius: 13px;
 }
