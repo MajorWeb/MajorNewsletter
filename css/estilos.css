@@ -1,0 +1,151 @@
+body{
+	font-family: 'Varela Round', sans-serif;
+	background: linear-gradient(white,gray);
+}
+
+.header-container{
+	height: 100%;
+	background-color: red;
+}
+.header-empresa-input{
+	height: 55px;
+	width: 65%;
+	display: block;
+    margin : auto;
+    margin-bottom: 22px;
+    border-radius: 13px;
+}
+.wrapper{
+	display: flex;
+	flex-wrap: nowrap;
+}
+.section-top{
+	margin-left: 50px;
+}
+.section-top-buy-text{
+	font-size: 32px;
+}
+.section-top-buy-text2{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: -170px;
+}
+.section-top-buy-text3{
+	font-size: 17px;
+	margin-left: 130px;
+}
+.section-top-text4{
+	margin-left: 110px;
+}
+.section-top-logo{
+	margin-left: 0px;
+	margin-top: 30px;
+}
+.section-top-linea{
+	margin-top: -40px;
+}
+.btn-large{
+	height: 50px;
+	width: 497px;
+	font-size: 38px;
+	background-color: rgb(251,83,69);
+	color: white;
+	border-radius: 13px;
+}
+.section-mid-descuentos{
+	margin-left: 230px;
+	margin-top: -110px;
+}
+.section-mid-text2{
+	margin-top: -90px;
+	margin-left: 10px;
+}
+.section-bot-deliver{
+	margin-top: 60px;
+}
+.section-bot-deliver p{
+	margin-top: -120px;
+	margin-left: 30px;
+	font-size: 22px;
+	color: white;
+}
+.section-bot-mex{
+	margin-left: 324px;
+	margin-top: -130px;
+}
+.section-bot-mex p{
+	margin-left: 33px;
+  	margin-top: -150px;
+}
+.section-bot-cafe{
+	margin-top: 150px;
+	margin-left: 65px;	
+}
+.section-bot-cafe p{
+	margin-left: 100px;
+	margin-top: -40px;
+	font-size: 18px;
+}
+.section-bot-input{
+	background-color: white;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	height: 85px;
+}
+.section-bot-innerborder{
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	height: 77px;
+}
+.usuario {
+	text-align: center;
+	border-radius: 5px;
+	margin-left: 40px;
+}
+.pw{
+	margin-top: 5px;
+	text-align: center;
+	border-radius: 5px;
+}
+.formulario{
+	width: 400px;
+	margin-left: 100px;
+  	margin-top: -60px;
+}
+.usuario-text{
+	margin: 0;
+	width: 80px;
+}
+.pw-text{
+	margin: 0;
+	width: 120px;
+}
+.section-bot-acceso{
+	margin:0;
+    width: 82px;
+    height: 74px;
+    margin-left: 5px;
+}
+.footer-container{
+	display:flex;
+}
+.footer-text1{
+	font-size: 13px;
+}
+.footer-text2{
+	font-size: 13px;
+}
+.footer-logo img{
+	width: 125px;
+	height: 27.12px;
+}
+.footer-img-contacto{
+	width: 60px;
+	height: 60px;
+	margin: auto;
+}
